@@ -1,12 +1,16 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: gandalfoglia.com
 branding:
   title: Gandal Foglia
   label: About me
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: LinkedIn
+  link: https://www.linkedin.com/in/gandalfoglia/
+- text: Instagram
+  link: https://www.instagram.com/gandalfoglia/
+- text: Twitter
+  link: https://www.linkedin.com/in/gandalfoglia/
 favicon: static/favicon.ico
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
