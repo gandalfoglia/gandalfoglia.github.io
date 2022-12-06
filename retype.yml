@@ -10,7 +10,7 @@ links:
 - text: Instagram
   link: https://www.instagram.com/gandalfoglia/
 - text: Twitter
-  link: https://www.linkedin.com/in/gandalfoglia/
+  link: https://twitter.com/FogliaGandal
 favicon: static/favicon.ico
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
