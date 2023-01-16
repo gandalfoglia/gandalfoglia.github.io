@@ -9,24 +9,23 @@ My TEDx journey started at TEDxMartigny, as a volunteer. After a successful 2018
 
 At the first meeting of the year 2019, the committee asked me if I wanted to organize a TEDxYouth event with their financial and structural support. I'm happy I said yes, even though it sounded really scary at the time.
 
-I brought three good friends on this journey and then we started searching for speakers. 
+I brought three good friends on this journey and then we started looking for speakers. 
 
 ## The first edition (2019)
 We got six wonderful people (aged 16 to 21) to coach and prepare for the event.
 
-Our event had to take place in the afternoon of the 6th of September as the TEDxMartigny took place later on. So I presented a speech to local schools and with their great cooperation we shared ideas worth spreading to 250 students aged 14 to 19. Everything went well (except the fact that we started the show ten minutes late) and those schools wanted to do it again the following year! The most beautiful compliment they could tell us.
+Our event had to take place in the afternoon of the 6th of September as the TEDxMartigny took place later on. So I presented a speech to local schools and with their great cooperation we shared ideas worth spreading to 250 students aged 14 to 19. Everything went well, except for the fact that we started the show ten minutes late. The schools we worked with loved the show and wanted to come again the following year. The most beautiful compliment they could tell us.
 
 The event took place at the Alambic theater and the show was 1 hour and 30 minutes long.
 
 It was a Friday and hopefully we have been able to skip school for that day (with the authorization of the direction, of course).
 
 Here's what I had to do:
-- Manage the whole operation
+- Manage the whole operation (all the administrative tasks included)
 - Coach three speakers (out of six)
-- All the administrative tasks
 - Social media management (FB, Twitter, Instagram)
 
-Here are the main one-time tasks I have done:
+Here are the main "one-time" tasks I have done:
 - Contacted TED and got the licence for more than 100 attendees
 - Found the speakers
 - Obtained the support of our state (educational department)
@@ -41,9 +40,9 @@ My friends did a great job through all of this and I can't thank them enough for
 
 ## The second edition (2021)
 
-Because of COVID, we had to skip a year and organized the event over 2 years. There were many challenges, including compliance with COVID standards and the fact that schools were not allowed to go on field trips. To counteract this, we decided to open the doors to the general public for the first time, which meant that we had to increase our efforts to bring people in. This kind of event is a hard sell in times of COVID and the revival of social events, but we still managed to gather over 100 people on the D-Day. 
+Because of COVID, we had to skip one edition. We organized that event over 2 years. There were many challenges, including compliance with COVID standards and the fact that schools were not allowed to go on field trips because of COVID. To counteract this, we decided to open the doors to the general public for the first time, which meant that we had to increase our efforts to bring people in. This kind of event is a hard sell in times of COVID and at the time of revival of social events. Still, we managed to gather over 100 people on the D-Day. 
 
-I'm was charge of the administration:
+Again, I was in charge of the administration:
 - Direction of the organization of the event
 - License Management
 - Guest management / Networking

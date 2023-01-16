@@ -8,4 +8,4 @@ I am a 20 years old student in computer science at EPFL, in Switzerland.
 
 ## Why did I create this website?
 
-I always wanted to create my own website. I'm using it as my resume for now. For the tech-savvy among you, this site was designed with Retype as well as GitHub Pages. I feel like it's looks better than a WordPress website. In reality, Retype is better for creating documentations but still, it works !
+I always wanted to create my own website. I'm using it as my resume for now. For the tech-savvy among you, this site was designed with Retype as well as GitHub Pages. I feel like it looks better than a WordPress website. In reality, Retype is better for creating documentations but still, it works !
