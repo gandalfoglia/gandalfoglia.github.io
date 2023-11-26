@@ -4,7 +4,7 @@ Hi ! I'm Gandal Foglia. Apparently, you have stumbled upon my personal website. 
 
 ## Who am I?
 
-I am a future 20 years old student in management at HEC Lausanne, in Switzerland.
+I am a future 20 years old student in economics at HEC Lausanne, in Switzerland.
 
 ## Why did I create this website?
 
