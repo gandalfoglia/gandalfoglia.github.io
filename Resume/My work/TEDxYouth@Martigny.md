@@ -1,63 +1,60 @@
 ---
-icon : flame
-tags: projects
+icon: flame
+tags: projects, TEDx, youth
 ---
 # TEDxYouth@Martigny
 
-## How it started
-My TEDx journey started at TEDxMartigny, as a volunteer. After a successful 2018 edition of the event, I joined their committee to learn more about the whole process of organizing an event. 
+## How It Started
+My TEDx journey began at TEDxMartigny, where I started as a volunteer. Following a successful 2018 edition, I joined the committee to delve deeper into the intricacies of organizing such an event. 
 
-At the first meeting of the year 2019, the committee asked me if I wanted to organize a TEDxYouth event with their financial and structural support. I'm happy I said yes, even though it sounded really scary at the time.
+During the first meeting of 2019, the committee proposed that I organize a TEDxYouth event, offering their financial and structural support. I hesitantly accepted, feeling both excited and apprehensive about the challenge.
 
-I brought three good friends on this journey and then we started looking for speakers. 
+I invited three close friends to join this adventure, and we began our search for speakers.
 
-## The first edition (2019)
-We got six wonderful people (aged 16 to 21) to coach and prepare for the event.
+## The First Edition (2019)
+We successfully coached and prepared six remarkable individuals, aged 16 to 21, for the event.
 
-Our event had to take place in the afternoon of the 6th of September as the TEDxMartigny took place later on. So I presented a speech to local schools and with their great cooperation we shared ideas worth spreading to 250 students aged 14 to 19. Everything went well, except for the fact that we started the show ten minutes late. The schools we worked with loved the show and wanted to come again the following year. The most beautiful compliment they could tell us.
+The event was scheduled for the afternoon of September 6th, just before TEDxMartigny. With the cooperation of local schools, I presented a speech that shared ideas worth spreading with 250 students aged 14 to 19. Despite a ten-minute delay at the start, the event went smoothly. The positive feedback from the schools, eager to return the following year, was our most rewarding compliment.
 
-The event took place at the Alambic theater and the show was 1 hour and 30 minutes long.
+Held at the Alambic Theater, the show lasted 1 hour and 30 minutes. It was a memorable Friday, and with the school's permission, we were able to skip classes for the day.
 
-It was a Friday and hopefully we have been able to skip school for that day (with the authorization of the direction, of course).
+### My Responsibilities
+- Managed the entire operation, including administrative tasks
+- Coached three out of six speakers
+- Handled social media management (Facebook, Twitter, Instagram)
 
-Here's what I had to do:
-- Manage the whole operation (all the administrative tasks included)
-- Coach three speakers (out of six)
-- Social media management (FB, Twitter, Instagram)
+### Key One-Time Tasks
+- Secured a license from TED for over 100 attendees
+- Selected and coached speakers
+- Gained support from the state’s educational department
+- Presented the project to one of the schools
+- Co-hosted the event and introduced speakers on stage with a colleague
 
-Here are the main "one-time" tasks I have done:
-- Contacted TED and got the licence for more than 100 attendees
-- Found the speakers
-- Obtained the support of our state (educational department)
-- Contacted one of the two schools and personally presented the project to them
-- Introduced the event and the speakers on stage with one of my colleague.
+My friends played a crucial role, and their motivation and commitment were invaluable. This project truly showcased the power of teamwork.
 
-My friends did a great job through all of this and I can't thank them enough for their motivation and engagement. None of this would have been possible without teamwork.
-
-=== :icon-bookmark: What I personally learned that year
-- You should not be afraid to ask. Very often things work out well. Even after a refusal, life goes on.
+=== :icon-bookmark: What I Learned in 2019
+- Don't be afraid to ask. Often, things work out well, and even after refusals, life goes on.
 ===
 
-## The second edition (2021)
+## The Second Edition (2021)
+Due to COVID-19, we had to skip the 2020 edition and organized the next event over two years. The challenges were numerous, including adhering to COVID-19 protocols and schools' restrictions on field trips. To address this, we opened the event to the general public for the first time, increasing our efforts to attract attendees. Despite the difficulties, we managed to gather over 100 people on the event day.
 
-Because of COVID, we had to skip one edition. We organized that event over 2 years. There were many challenges, including compliance with COVID standards and the fact that schools were not allowed to go on field trips because of COVID. To counteract this, we decided to open the doors to the general public for the first time, which meant that we had to increase our efforts to bring people in. This kind of event is a hard sell in times of COVID and at the time of revival of social events. Still, we managed to gather over 100 people on the D-Day. 
+Again, I took charge of administration:
+- Directed the organization of the event
+- Managed licensing
+- Oversaw guest management and networking
+- Coordinated volunteer efforts
+- Managed social media accounts
+- Handled marketing
+- Coached several speakers
+- Maintained relations with the parent TEDx organization, TEDxMartigny, managed by Neurhone
 
-Again, I was in charge of the administration:
-- Direction of the organization of the event
-- License Management
-- Guest management / Networking
-- Volunteer Management
-- Social media accounts management
-- Marketing
-- Management and coaching of a few speakers
-- Relationship management with the parent TEDx: the TEDxMartigny managed by Neurhone
+### Additional Tasks
+- Presented speakers on stage
+- Created the event program
+- Directed the stage operations
 
-As well as other tasks:
-- On-stage presentation of speakers
-- Creating the program
-- Stage director
-
-=== :icon-bookmark: What I personally learned that year
-- Knowing how to delegate more is important, otherwise it is easy to overload yourself and not be able to give your 100% in each task that requires a great effort.
-- You have to be ready on all fronts on D-Day and anticipate all the cases that may arise.
+=== :icon-bookmark: What I Learned in 2021
+- Delegating tasks is crucial to avoid overloading yourself, ensuring you can give 100% to tasks that require significant effort.
+- Being prepared for all eventualities on the event day and anticipating potential issues is essential.
 ===
