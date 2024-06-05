@@ -1,6 +1,6 @@
 # General equilibrium
-# 1. Partial equilibrium
-## I. (a) Partial competitive equilibrium (on 1 market)
+## 1. Partial equilibrium
+### I. (a) Partial competitive equilibrium (on 1 market)
 
 #### 1. Introduction to Market Equilibrium
 - Definition: Market equilibrium occurs when supply equals demand, determining the price and quantity in a market.
@@ -97,7 +97,7 @@
 8. **Long-Term Equilibrium**
    - **Definition**: The state in which all economic profits are zero due to free entry and exit in the market.
    - **Example**: In the tech industry, if new firms keep entering due to high short-term profits, eventually competition will drive profits down to zero.
-## I. (b) Taxation in partial equilibrium
+### I. (b) Taxation in partial equilibrium
 
 1.  **Income Inequality and the Role of Government**
 
@@ -174,8 +174,8 @@
 
 *   **Elasticity:** 
 	* Example: The demand for luxury goods is generally more elastic than the demand for necessities, meaning that a tax on luxury goods would likely lead to a larger decrease in quantity demanded compared to a tax on necessities.
-# 2. Equilibrium in a monopoly market
-#### 1. Equilibrium in a Monopoly Market
+## 2. Equilibrium in a monopoly market
+### 1. Equilibrium in a Monopoly Market
 - **Definition of Monopoly**: A situation with only one company in the market, where the quantity offered by the company determines the selling price.
 - **Market Structure**:
   - **Perfect Competition**: Identical goods, price taken as given.
@@ -209,7 +209,7 @@
 		- The lower the elasticity (i.e., more inelastic demand), the higher the Lerner Index
 		- With inelastic demand, a monopoly has greater pricing power and can set a higher markup over marginal cost, enhancing its ability to extract consumer surplus and increase profits.
 
-#### 2. Monopoly Deadweight Loss
+### 2. Monopoly Deadweight Loss
 - **Profit Maximization**:
   - Revenue: \( $P(Q) \cdot Q$ \)
   - Cost: \( $C(Q)$ \)
@@ -219,7 +219,7 @@
   - Perfect competition sets prices where market equilibrium condition holds.
 - **Deadweight Loss**: Created due to underproduction and artificial scarcity, resulting in higher prices and lower consumer surplus.
 
-#### 3. Natural Monopoly
+### 3. Natural Monopoly
 - **Definition**: Occurs when a single company can supply the entire market demand at a lower cost than multiple companies due to significant economies of scale.
 - **Examples**: Electricity transmission, water supply, motorways.
 - **Regulatory Approaches**:
@@ -228,7 +228,7 @@
   - Regulate return on investment.
   - Set maximum prices.
 
-#### 4. Measuring Market Power
+### 4. Measuring Market Power
 - **Historical Context**: Example of Standard Oil and its monopoly practices, leading to antitrust actions.
 - **Detection of Anti-Competitive Practices**:
   - Explicit collusion in pricing, production quotas, and technology.
@@ -273,33 +273,33 @@
 
 #### Anti-Competitive Practices
 - **Illustration**: Two leading smartphone manufacturers agreeing to set minimum prices for their products, reducing consumer choices and keeping prices high.
-# 3. Externality
+## 3. Externality
 
-#### 1. Introduction to Externalities and Market Failures
+### 1. Introduction to Externalities and Market Failures
 - **Definition of Externality**: An externality occurs when a transaction between two economic agents <mark style="background: #FFB86CA6;">impacts a third party not involved</mark> in the transaction, and this impact is <mark style="background: #FF5582A6;">not reflected in market prices</mark>.
 - **Environmental Problems**: Often arise due to undefined property rights and incomplete markets, leading to free access and lack of responsibility.
 - **Market Failures**: Externalities and public goods contribute to market failures, particularly in environmental contexts.
 
-#### 2. Concept of <mark style="background: #ABF7F7A6;">Pigouvian Taxation</mark>
+### 2. Concept of <mark style="background: #ABF7F7A6;">Pigouvian Taxation</mark>
 - **Purpose**: To <mark style="background: #ABF7F7A6;">correct market failures by internalizing externalities</mark> through taxation.
 - **Optimal Tax**: Under specific conditions, there exists an optimal tax that can achieve the "First-Best" solution, i.e., the most efficient allocation of resources.
 
-#### 3. Simplified Economy Model
+### 3. Simplified Economy Model
 - **Two Goods**: Food (E) and a composite good (Y).
 - **Competitive Markets**: Assumed for both goods, where prices are equal to marginal costs. ($P=Mc$)
 - **Representative Consumer**: Optimization is constrained using the Lagrangian method.
 
-#### 4. Government Intervention and Social Planning
+### 4. Government Intervention and Social Planning
 - **Externalities**: Consumption of food (E) produces methane emissions, causing damage not directly borne by consumers.
 - **Social Planner's Problem**: Formulating a solution to achieve social equilibrium by considering externalities.
 - **First-Best Solution**: Achieved when the <mark style="background: #FFB86CA6;">marginal benefit equals the marginal social cost</mark>.
 
-#### 5. Graphical Analysis
+### 5. Graphical Analysis
 - **Demand and Supply Curves**: Inverse demand curve ($P(E)$) and supply curve.
 - **Competitive vs Social Equilibrium**: Comparison of the equilibrium under competitive markets versus socially optimal equilibrium.
 - **Marginal Damage Curve**: Represents the additional harm caused by each unit of E consumed.
 
-#### 6. Pigouvian Tax Implementation
+### 6. Pigouvian Tax Implementation
 - **Decentralized Solution**: Taxation does not require knowledge of utility or production functions, only the marginal damage function.
 - **Applicability**: Relevant in contexts with externalities, including pollution, COVID-19, financial market risks, and R&D spill-overs.
 - **Examples**:
@@ -307,7 +307,7 @@
   - **Switzerland**: Introduced carbon tax in 2008.
   - **British Columbia (Canada)**: Implemented a revenue-neutral carbon tax.
 
-#### 7. Comparative Analysis
+### 7. Comparative Analysis
 - **Competitive Equilibrium vs Social Welfare**: Evaluates the total private cost, damage, consumer benefit, and welfare under competitive equilibrium and social equilibrium.
 - **Dead-Weight Loss (DWL)**: Analysis of inefficiencies in competitive equilibrium compared to the socially optimal state.
 
@@ -328,8 +328,8 @@
 4. **Dead-Weight Loss (DWL)**:
    - **Definition**: The loss of economic efficiency when equilibrium for a good or service is not achieved.
    - **Example**: In the absence of a Pigouvian tax, the overproduction of polluting goods leads to societal costs that exceed the private benefits, creating a DWL.
-# 4. Good to know
-#### 1. Perfect Market Assumptions
+## 4. Good to know
+### 1. Perfect Market Assumptions
 - **Supply (Producers)**:
   - Maximize profit
   - Sell identical products
@@ -344,28 +344,28 @@
   - All costs associated with the products are accounted for
   - Well-defined property rights
 
-#### 2. Competitive Equilibrium
+### 2. Competitive Equilibrium
 - **Key Point**: <mark style="background: #FFB8EBA6;">Well-being is maximized at the competitive equilibrium</mark>, denoted as (P*, Q*).
 - **Graphical Representation**: Demand curve P(Q) vs. Quantity (Q).
 
-#### 3. Taxation in Partial Equilibrium
+### 3. Taxation in Partial Equilibrium
 - **Legal vs. Economic Impact**: Differentiates the effects of tax on consumers and producers.
 - **Deadweight Loss**: Illustrated as the <mark style="background: #FFB86CA6;">loss of well-being due to tax</mark>.
 
-#### 4. Monopoly
+### 4. Monopoly
 - **Definition**: <mark style="background: #FF5582A6;">Markup</mark> - The difference between the price set by the monopolist and the marginal cost.
 - **Monopoly Equilibrium**:
   - Price (Pmonopoly) <mark style="background: #BBFABBA6;">higher</mark> than in competitive markets
   - Quantity (Qmonopoly) <mark style="background: #FFB86CA6;">lower</mark> than in competitive markets
 - **Deadweight Loss**: Represented by areas C and E in the graph.
 
-#### 5. Natural Monopoly
+### 5. Natural Monopoly
 - **Key Points**: Focuses on the cost structure where one firm can supply the market at a lower cost than multiple firms.
 - **Graphical Analysis**:
   - Average Cost (AC) and Marginal Cost (Cm) curves
   - <mark style="background: #BBFABBA6;">Profit determination based on the intersection of AC and demand curve</mark>
 
-#### 6. Externalities and Pigouvian Tax
+### 6. Externalities and Pigouvian Tax
 - **Externalities**: Costs or benefits not reflected in market prices that affect third parties.
 - **Deadweight Loss**: Due to externalities, illustrated in the graph.
 - **Pigouvian Tax**: A tax imposed to correct the negative externalities by aligning private costs with social costs.
@@ -399,14 +399,14 @@
 7. **Pigouvian Tax**:
    - **Definition**: A tax levied on any market activity that generates negative externalities (costs not internalized in the market price).
    - **Example**: Carbon tax imposed on companies based on their greenhouse gas emissions to mitigate climate change effects.
-# 5.  General equilibrium
-#### 1. Introduction and Key Concepts
+## 5.  General equilibrium
+### 1. Introduction and Key Concepts
 - **Equilibrium in Economics**
   - **Partial Competitive Equilibrium**: Focuses on a single market under perfect conditions.
   - **General Competitive Equilibrium**: Involves multiple markets interacting with each other.
   - **Perfect Market Assumptions**: Profit maximization by producers, identical products, free entry/exit, no market power, perfect information, no transaction costs, all costs accounted for, well-defined property rights.
 
-#### 2. Interactions Between Multiple Markets
+### 2. Interactions Between Multiple Markets
 - **Example 1: Energy Crisis in Europe**
   - Reduction in natural gas supply impacts the equilibrium price.
   - Increased demand for heat pumps due to higher gas prices.
@@ -417,7 +417,7 @@
   - Increased capital productivity lowers costs, increases demand.
   - Entrepreneurs work more to meet demand, become richer, changing consumption patterns.
 
-#### 3. The Edgeworth Box
+### 3. The Edgeworth Box
 - **Definition and Use**
   - Graphical tool for studying general equilibrium with two goods and two types of consumer/producer.
   - Illustrates initial allocations, final allocations, and potential Pareto efficiency improvements.
@@ -428,7 +428,7 @@
   - **Pareto Efficiency**: No one can be made better off without making someone else worse off.
   - **Contract Curve**: All Pareto-efficient allocations.
 
-#### 4. Walras' General Equilibrium
+### 4. Walras' General Equilibrium
 - **General Equilibrium Definition**
   - All agents optimize their utility.
   - Prices adjust so that total demand equals total supply.
@@ -440,12 +440,12 @@
   - Prices are endogenous; budget constraints depend on relative prices.
   - General equilibrium ensures that net demand equals zero.
 
-#### 5. The First Welfare Theorem
+### 5. The First Welfare Theorem
 - **Statement**
   - All Walras competitive equilibria are Pareto efficient.
   - Equilibrium is on the contract curve.
 
-#### 6. The Second Welfare Theorem
+### 6. The Second Welfare Theorem
 - **Statement**
   - Any Pareto optimum can be a Walras equilibrium if resources are adequately reallocated.
   
@@ -453,7 +453,7 @@
   - Initial allocations impact the set of achievable equilibria.
   - Redistribution of resources can reach different equilibria on the contract curve.
 
-#### 7. Practical Applications of General Equilibrium
+### 7. Practical Applications of General Equilibrium
 - **Examples**
   - Liberalization of electricity markets.
   - Allocation of medical student placements.
@@ -489,8 +489,6 @@
 ### Conclusion
 This chapter outlines fundamental economic theories related to market equilibrium, both in single and multiple market scenarios, and emphasizes the concepts of Pareto efficiency and general equilibrium, using graphical tools like the Edgeworth Box. Practical applications of these theories are also discussed, highlighting their relevance in various economic policies and market structures.
 ### Formulas
-### Formulas Related to Market Equilibrium
-
 #### Partial Competitive Equilibrium
 
 - **Demand Function**: $Q_d = f(P)$
